@@ -1,4 +1,4 @@
-# AndroidからGoogle Formに回答するサンプル
+# google form for android
 
 google formを使ってお金をかけずにお問い合わせシステムを作ってみるサンプル
 
